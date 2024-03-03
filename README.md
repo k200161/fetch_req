@@ -1,16 +1,17 @@
-# fetch_req
+# Fetch Request
 
-A new Flutter project.
+A flutter app used to demonstrate a GET request
 
-## Getting Started
+## Submission
 
-This project is a starting point for a Flutter application.
+Group: 6
 
-A few resources to get you started if this is your first Flutter project:
+Saad Bin Khalid, 20K-0161
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Moaaz Bin Sajjad, 20K-0154
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Abdul Rahman, 20K-0239
+
+## Screenshots
+
+<img src="./docs/demo.gif" width=400>
